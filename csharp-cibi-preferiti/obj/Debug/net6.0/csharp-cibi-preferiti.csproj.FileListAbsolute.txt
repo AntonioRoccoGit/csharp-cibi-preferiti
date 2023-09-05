@@ -1,0 +1,14 @@
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\bin\Debug\net6.0\csharp-cibi-preferiti.exe
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\bin\Debug\net6.0\csharp-cibi-preferiti.deps.json
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\bin\Debug\net6.0\csharp-cibi-preferiti.runtimeconfig.json
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\bin\Debug\net6.0\csharp-cibi-preferiti.dll
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\bin\Debug\net6.0\csharp-cibi-preferiti.pdb
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\csharp-cibi-preferiti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\csharp-cibi-preferiti.AssemblyInfoInputs.cache
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\csharp-cibi-preferiti.AssemblyInfo.cs
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\csharp-cibi-preferiti.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\csharp-cibi-preferiti.dll
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\refint\csharp-cibi-preferiti.dll
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\csharp-cibi-preferiti.pdb
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\csharp-cibi-preferiti.genruntimeconfig.cache
+C:\Users\Antonio\source\repos\csharp-cibi-preferiti\csharp-cibi-preferiti\obj\Debug\net6.0\ref\csharp-cibi-preferiti.dll
